@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\LXAPIExam\LXTechExam\LXApiExam\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.deps.json
+C:\Users\USER\Documents\LXAPIExam\LXTechExam\LXApiExam\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\USER\Documents\LXAPIExam\LXTechExam\LXApiExam\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.pdb
+C:\Users\USER\Documents\LXAPIExam\LXTechExam\LXApiExam\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\USER\Documents\LXAPIExam\LXTechExam\LXApiExam\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\LXAPIExam\LXTechExam\LXApiExam\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\USER\Documents\LXAPIExam\LXTechExam\LXApiExam\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\USER\Documents\LXAPIExam\LXTechExam\LXApiExam\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.pdb
